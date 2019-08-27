@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.primero{
+    background-color: palevioletred;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    color: wheat;
+}
+.cuadritos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 42px;
+}
+.cuadro{
+    background-color: darkorchid;
+    padding: 38px;
+    width: 400px;
+    margin-right: 47px;
+    margin-left: 47px;
+    text-align: center;
+}
