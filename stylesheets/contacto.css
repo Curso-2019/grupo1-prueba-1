@@ -17,9 +17,10 @@ h2
     padding-bottom: 100px;
 }
 
-.formulario
+.formulario, h2
 {
     display: flex;
     justify-content: center;
+    color: white;
 }
 
