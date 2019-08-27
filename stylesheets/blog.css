@@ -3,8 +3,10 @@
 }
 
 header h1{
+    background:rgb(246, 201, 208);
     text-align:center;
     border-bottom: 1px solid black;
+    color: white;
 }
 
 .columns{
@@ -33,6 +35,6 @@ header h1{
 .col2{
     width:30%;
     background: peru;
-    
+    color: white;
 }
 
