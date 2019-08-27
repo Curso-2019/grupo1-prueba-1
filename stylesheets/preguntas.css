@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+    color: darkred;
+    text-decoration: underline;
+    text-shadow: black 1px 1px 1px;
+}
+
+h3{
+    color: yellowgreen;
+    margin-left: 20px; 
+    text-shadow: greenyellow 1px 1px 1px;
+}
+
+p{
+    color: red;
+}
