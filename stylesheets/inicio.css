@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+.container{
+    padding-top: 52px;
+}
 .primero{
     background-color: palevioletred;
     padding: 50px;
@@ -22,4 +25,5 @@
     margin-left: 47px;
     text-align: center;
     color: beige;
+    margin-bottom: 276px;
 }
