@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box
+}
+
+header h1{
+    text-align:center;
+    border-bottom: 1px solid black;
+}
+
+.columns{
+    display: flex;
+}
+
+.col1{
+    width:69%; 
+    display:flex;
+    flex-wrap: wrap;
+    margin-right: 2px;
+}
+
+.row{
+    border: 1px solid black;
+    margin-bottom: 5px;
+    background: rgb(246, 201, 208);
+}
+
+.row p{
+    border: 1px solid black;
+    background: white;
+    margin: 8px;
+}
+
+.col2{
+    width:30%;
+    background: peru;
+    
+}
+
